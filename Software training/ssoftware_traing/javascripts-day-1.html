@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <style>
+       #cv9{
+        background-color: burlywood;
+        height: 500px;
+        width: 50%;
+        margin-left: 300px;
+       }
+       #sbt{
+        background-color: red;
+       }
+    </style>
+</head>
+<body> 
+    <div id="cv9">
+        <h2>ONLINE COVID-19 SELF ASSEESSMENT</h2>
+        <p>please complete this short survey</p>
+    <p id="cough"> Are you coughing?
+    <select name="yes"  class="form-control">
+        <option value="yes">Yes </option>
+        <option value="no"> No</option>
+      </select>
+    </p>
+
+      <p id="travel"> Did you travel out of Nigeria within the last six months?
+      <select name="yes"  class="form-control">
+          <option value="yes">Yes </option>
+          <option value="no"> No</option>
+        </select>
+    </p>
+
+    <button id="sbt" type="submit" class="form-control mt-2" onclick="Diagnose()"> Diagnose</button>
+
+    </div>
+
+<script type="text/javascript">
+    function diagnose(){
+        var cough= document.getElementById('cough').value;
+        var travel= document.getElementById('travel').value;
+
+    if(cough == "no" && travel == "no"); {
+        alert("Please be safe")
+    }else{
+        alert("go for test")
+    }
+    
+    }
+    
+    
+</script>
+</body>
+</html>

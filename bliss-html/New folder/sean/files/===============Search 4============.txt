@@ -1,0 +1,226 @@
+===============Search 4=====================2==========================================
+NAME
+First Name
+Jerry
+Middle Name
+Dwayne
+Last Name
+Oneal
+ssn   405153837
+BIRTH INFORMATION                        jerryoneal95@yahoo.com
+Age
+55
+Birth Date
+Oct 3, 1965
+(812) 989-9326
+4203 Aberdeen Ct, New Albany, IN 47150-9690
+Enterprise Architect at Samtec Inc     Jun 1, 2013
+=============================3====================================
+
+Mark P Boone
+312868454
+48
+05/14/1972
+2250 Ridge Crest Dr Ne, Lanesville, IN 47136-8104
+Senior Director of Medical Sales at Samtec Inc     Nov 1991
+
+2405 S Yosemite St
+Denver , CO, 80231-4269  United States
+(303) 597-0300
+==============================4=======================================
+NAME
+First Name
+Russ
+Last Name
+Payton
+BIRTH INFORMATION                      russ.payton@yahoo.com
+Age
+52
+Birth Date
+10/30/1968
+(812) 941-8361
+4266 Sunrise Dr, Sellersburg, IN 47172-9243
+Manufacturing Manager at Samtec Inc  Jan 1, 2008 
+
+7676 S Continental Divide Rd
+Littleton , CO, 80127-3835  United States
+(303) 979-1876
+=============================5========================================== 
+NAME
+First Name
+Mike
+Middle Name
+A
+Last Name
+Hynes
+ssn  403022215
+BIRTH INFORMATION                   hynes.mike@yahoo.com
+Age
+46
+Birth Date
+02/22/1974
+(502) 215-6361
+108 W Park Pl, Jeffersonville, IN 47130-4338
+Sr. VP / WW Sales Director at Samtec    June 1986  
+
+
+1805 Shea Center Dr
+Littleton , CO, 80129-2251  United States
+(303) 858-1800
+==============================6=======================
+ 
+NAME
+First Name
+Pamela
+Middle Name
+Sue
+Last Name
+Grieb
+ssn   309804014
+BIRTH INFORMATION           pamela.grieb@yahoo.com
+Age
+54
+Birth Date
+09/18/1966
+(812) 246-2479
+4014 Glenwood Way, Sellersburg, IN 47172-1260
+Marketing Operations Manager at Samtec Inc       1987 Nov
+
+19751 E Mainstreet Ste 275
+Parker , CO, 80138-7382  United States
+(303) 841-8658
+==============================7=====================================================
+NAME
+First Name
+Scott
+Middle Name
+Allan
+Last Name
+Jennings
+ssn   303841639
+BIRTH INFORMATION       scottjennings129@yahoo.com
+Age
+55
+Birth Date
+10/16/1965
+(812) 748-0089
+13106 Deer Lake Dr, Memphis, IN 47143-9675
+Director of Quality North America at Samtec Inc    1994  march 
+ (970) 949-1616
+
+
+2823 Roslyn St
+Denver , CO, 80238-2624  United States
+
+(303) 388-0724
+================================8===============================================
+NAME
+First Name
+Kneina
+Middle Name
+Renelle
+Last Name
+Hinkel
+ssn   308381508  308881508
+BIRTH INFORMATION                       kneinahinkel55@hotmail.com
+Age
+40
+Birth Date
+02/08/1980
+(812) 944-1791
+1295 Voelker Dr Ne, Corydon, IN 47112-8339
+Learning and Development Coordinator at Samtec Inc     an 1, 2014
+
+9568 S University Blvd
+Highlands Ranch , CO, 80126-2912  United States
+(303) 791-2500
+=================================9===============================================
+NAME
+First Name
+Candice
+Middle Name
+L
+Last Name
+Gardner
+ssn   305985263
+BIRTH INFORMATION                            candicegardner1@hotmail.com
+Age
+41
+Birth Date
+11/28/1979
+(812) 345-9099
+728 Vine Leaf Trl, New Albany, IN 47150-4578
+Global Containment Administrator at Samtec Inc      2006 April 
+==============================10=============================================
+NAME
+First Name
+Mark
+Middle Name
+Louis
+Last Name
+Baumann
+ssn    307809091
+BIRTH INFORMATION                markbaughman177@yahoo.com
+Age
+51
+Birth Date
+03/02/1969
+(812) 949-1698
+3014 Andres Ct, Floyds Knobs, IN 47119-0015
+Supply Chain Manager at Samtec, Inc.    2006 July
+===============================11============================== 
+NAME
+First Name
+Paul
+Middle Name
+R
+Last Name
+Nolan
+ssn  407239350
+BIRTH INFORMATION             paulNolan15@hotmail.com
+Age
+38
+Birth Date
+08/08/1982
+(812) 283-1110
+================================================1===============================================
+NAME
+First Name
+Joshua
+Middle Name
+Allen
+Last Name
+Braun
+SSN        317843027
+BIRTH INFORMATION                        william-smith533@hotmail.com
+Age
+40
+Birth Date
+04/03/1980
+Phone Number
+
+(812) 246-5603
+7239 Jersey Park Rd, Floyds Knobs, IN 47119-8609
+ZRay operator 2006 march
+=================================================================2==========================================
+NAME
+First Name
+Michael
+Middle Name
+Frank
+Last Name
+Hentrup
+SSN      303860111
+BIRTH INFORMATION                     jonas_f11@hotmail.com
+jonas_f11@hotmail.com
+Age
+50
+Birth Date
+02/21/1970
+Phone Number
+
+(812) 969-3630
+9129 Rabbit Hash Rd Se, Elizabeth, IN 47117-8603  
+Supply Chain Analyst 2006 june
+2308 Mclean Ave, New Albany, IN 47150-2637
+Application Architect at Samtec Inc 	Jun 1, 2016
